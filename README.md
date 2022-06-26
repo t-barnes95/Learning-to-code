@@ -54,3 +54,4 @@ Finally, we'll need to learn a little bit about Linux and Git. Linux is the oper
 3. Explore your editor. Make a change in the top window (the editor), and save it using `git` commands in the bottom window (called the terminal, command line, or CLI).
 4. To save your work you'll need to use the [git commands](https://github.com/git-guides/#make-change-and-make-a-commit) listed here. Specifically, `git add .`, `git commit -m "comment"`, and `git push` are the three commands to run in order to save your work.
 5. Check that your changes are saved to your repository. You should be able to view your repo at `https://github.com/the-jujus/learning-python/`, where `the-jujus` is the name of your github account.
+6. Tyler likes pianos
